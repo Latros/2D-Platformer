@@ -1,0 +1,1520 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"platforms",
+				"game_platforms"
+			],
+			[
+				"orig",
+				"original_release_date"
+			],
+			[
+				"original",
+				"original_release_date"
+			],
+			[
+				"invite",
+				"invitedUsers"
+			],
+			[
+				"discussio",
+				"discussionCreator"
+			],
+			[
+				"disu",
+				"discussionCreator"
+			],
+			[
+				"discuss",
+				"discussionCreator"
+			],
+			[
+				"submit",
+				"submitDiscussion"
+			],
+			[
+				"entere",
+				"enteredEmail"
+			],
+			[
+				"back",
+				"background-image"
+			],
+			[
+				"mo",
+				"moodboardService"
+			],
+			[
+				"proj",
+				"project"
+			],
+			[
+				"su",
+				"success"
+			],
+			[
+				"e",
+				"exec"
+			],
+			[
+				"modal",
+				"modalInstance"
+			],
+			[
+				"new",
+				"new_users"
+			],
+			[
+				"over",
+				"overflow-y"
+			],
+			[
+				"background",
+				"background-size"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"backgr",
+				"background-position"
+			],
+			[
+				"moo",
+				"moodboardImages"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"cu",
+				"currentIndex"
+			],
+			[
+				"inde",
+				"indexOf"
+			],
+			[
+				"moodboardImage",
+				"moodboardImageController"
+			],
+			[
+				"con",
+				"controller"
+			],
+			[
+				"attri",
+				"attribute"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"s",
+				"switchView"
+			],
+			[
+				"pro",
+				"project"
+			],
+			[
+				"def",
+				"defaultsTo"
+			],
+			[
+				"in",
+				"invitation"
+			],
+			[
+				"reco",
+				"recoveryURL"
+			],
+			[
+				"host",
+				"hostname"
+			],
+			[
+				"user",
+				"user_data"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"fin",
+				"findOne"
+			],
+			[
+				"file",
+				"filename"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"list-style",
+				"list-style-type"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"border",
+				"border-top"
+			],
+			[
+				"ma",
+				"max-height"
+			],
+			[
+				"import",
+				"important"
+			],
+			[
+				"l",
+				"left"
+			],
+			[
+				"type",
+				"typeahead"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"cli",
+				"client"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"ui-color",
+				"ui-color-1"
+			],
+			[
+				"project",
+				"projectService"
+			],
+			[
+				"current",
+				"current_view"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"search",
+				"search_page"
+			],
+			[
+				"fetch",
+				"fetchFlow"
+			],
+			[
+				"souply_",
+				"souply_staging"
+			],
+			[
+				"ont",
+				"font-size"
+			],
+			[
+				"Subsc",
+				"subscribed"
+			],
+			[
+				"subs",
+				"subscribe"
+			],
+			[
+				"data",
+				"dataTransfer"
+			],
+			[
+				"Mood",
+				"MoodboardImage"
+			],
+			[
+				"crea",
+				"creator"
+			],
+			[
+				"image",
+				"imageDropped"
+			],
+			[
+				"moodboard",
+				"moodboardImage"
+			],
+			[
+				"url",
+				"urlRegex"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"ba",
+				"background-position"
+			],
+			[
+				"ui-color-",
+				"ui-color-3"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"souply",
+				"souply_staging"
+			],
+			[
+				"local",
+				"localhost"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"aspect",
+				"aspectRatio"
+			],
+			[
+				"aspe",
+				"aspectRatio"
+			],
+			[
+				"or",
+				"originalEvent"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"re",
+				"reposition"
+			],
+			[
+				"moodboa",
+				"moodboardCtrl"
+			],
+			[
+				"co",
+				"columns"
+			],
+			[
+				"translate",
+				"translateY"
+			],
+			[
+				"route",
+				"routeProvider"
+			],
+			[
+				"ui-colo",
+				"ui-color-1"
+			],
+			[
+				"button",
+				"button-container"
+			],
+			[
+				"id",
+				"id"
+			],
+			[
+				"cou",
+				"cloud_mysql_database"
+			],
+			[
+				"client",
+				"client_name"
+			],
+			[
+				"fave",
+				"fav_projects"
+			],
+			[
+				"fav",
+				"FavoriteProject"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"b",
+				"background-color"
+			],
+			[
+				"border-s",
+				"border-spacing"
+			],
+			[
+				"sprite",
+				"spriteGrid"
+			],
+			[
+				"list",
+				"list-style-image"
+			],
+			[
+				"Clien",
+				"ClientProjectRelation"
+			],
+			[
+				"post",
+				"post_data"
+			],
+			[
+				"selec",
+				"selected_users"
+			],
+			[
+				"i",
+				"italic"
+			],
+			[
+				"selected",
+				"selected_users"
+			],
+			[
+				"newPro",
+				"newProjectModalController"
+			],
+			[
+				"template",
+				"templateUrl"
+			],
+			[
+				"dash",
+				"dashboard_pading"
+			],
+			[
+				"sails",
+				"sails-mysql"
+			],
+			[
+				"is",
+				"isAuthenticated"
+			],
+			[
+				"change",
+				"changeCity"
+			],
+			[
+				"chan",
+				"changeCity"
+			],
+			[
+				"flu-bl",
+				"flu-blue"
+			],
+			[
+				"email",
+				"email_template"
+			],
+			[
+				"Geo",
+				"geoCoder"
+			],
+			[
+				"no",
+				"nowrap"
+			],
+			[
+				"tip",
+				"tip_content"
+			],
+			[
+				"remo",
+				"removeClass"
+			],
+			[
+				"backg",
+				"background"
+			],
+			[
+				"show",
+				"showTracker"
+			],
+			[
+				"val",
+				"valid"
+			],
+			[
+				"sen",
+				"send"
+			],
+			[
+				"padding-",
+				"padding-top"
+			],
+			[
+				"set",
+				"setTimeout"
+			],
+			[
+				"flu-",
+				"flu-footer-text"
+			],
+			[
+				"backgo",
+				"background-color"
+			],
+			[
+				"prov",
+				"province_levels"
+			],
+			[
+				"province",
+				"province_population"
+			],
+			[
+				"pri",
+				"province_population"
+			],
+			[
+				"upda",
+				"updateProvince"
+			],
+			[
+				"flu",
+				"flu_level"
+			],
+			[
+				"fl",
+				"flu_level"
+			],
+			[
+				"pop",
+				"population"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "views/layout.ejs",
+			"settings":
+			{
+				"buffer_size": 434,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "views/homepage.ejs",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "assets/styles/styles.css",
+			"settings":
+			{
+				"buffer_size": 92,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "assets/js/main.js",
+			"settings":
+			{
+				"buffer_size": 1543,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 51.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 126.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/samuelstiles/Desktop/2D Platformer v1/tasks/pipeline.js",
+		"/Users/samuelstiles/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/samuelstiles/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/samuelstiles/Desktop/2D Platformer v1/tasks/config/sails-linker.js",
+		"/Users/samuelstiles/Desktop/2D Platformer v1/tutorial/part1.html",
+		"/Users/samuelstiles/Desktop/2D Platformer v1/assets/robots.txt",
+		"/Users/samuelstiles/Desktop/nbifapp.orangesprocket.com/html/ajax/adminFunctions.php",
+		"/Users/samuelstiles/Desktop/nbifapp.orangesprocket.com/html/ajax/.db_config.php",
+		"/Users/samuelstiles/Desktop/nbifapp.orangesprocket.com/html/ajax/exploreUser.php",
+		"/Users/samuelstiles/Desktop/nbifapp.orangesprocket.com/html/ajax/search-results-template.php",
+		"/Users/samuelstiles/Desktop/nbifapp.orangesprocket.com/html/email/email-template-en.php",
+		"/Users/samuelstiles/Desktop/nbifapp.orangesprocket.com/html/email/email-template-fr.php",
+		"/Users/samuelstiles/Desktop/nbifapp.orangesprocket.com/html/index.php",
+		"/Users/samuelstiles/Desktop/nbifapp.orangesprocket.com/html/login.php",
+		"/Users/samuelstiles/Desktop/nbifapp.orangesprocket.com/html/register.php",
+		"/Users/samuelstiles/Desktop/nbifapp.orangesprocket.com/html/resource/js/_support/jquery.iframe-transport.js",
+		"/Users/samuelstiles/Desktop/nbifapp.orangesprocket.com/html/resource/js/_support/jquery.ui.datepicker.js",
+		"/Users/samuelstiles/Desktop/nbifapp.orangesprocket.com/html/site/application-info.php",
+		"/Users/samuelstiles/Desktop/nbifapp.orangesprocket.com/html/site/applications-files.php",
+		"/Users/samuelstiles/Desktop/nbifapp.orangesprocket.com/html/site/applications-manage.php",
+		"/Users/samuelstiles/Desktop/nbifapp.orangesprocket.com/html/site/applications.php",
+		"/Users/samuelstiles/Desktop/nbifapp.orangesprocket.com/html/site/dashboard.php",
+		"/Users/samuelstiles/Desktop/nbifapp.orangesprocket.com/html/site/industrydash.php",
+		"/Users/samuelstiles/Desktop/nbifapp.orangesprocket.com/html/site/landing.php",
+		"/Users/samuelstiles/Desktop/nbifapp.orangesprocket.com/html/site/profile-bio.php",
+		"/Users/samuelstiles/Desktop/nbifapp.orangesprocket.com/html/site/profile-education.php",
+		"/Users/samuelstiles/Desktop/nbifapp.orangesprocket.com/html/site/profile-expertise.php",
+		"/Users/samuelstiles/Desktop/nbifapp.orangesprocket.com/html/site/profile-resume.php",
+		"/Users/samuelstiles/Desktop/nbifapp.orangesprocket.com/html/site/profile.php",
+		"/Users/samuelstiles/Desktop/nbifapp.orangesprocket.com/html/site/searchResults.php",
+		"/Users/samuelstiles/Desktop/nbifapp.orangesprocket.com/html/site/users.php",
+		"/Users/samuelstiles/Desktop/nbifapp.orangesprocket.com/html/site/_includes/header.php",
+		"/Users/samuelstiles/Desktop/nbifapp.orangesprocket.com/html/resource/js/_support/pwstrength.js",
+		"/Users/samuelstiles/Desktop/nbifapp.orangesprocket.com/html/resource/js/_support/PIE.js",
+		"/Users/samuelstiles/Desktop/nbifapp.orangesprocket.com/html/resource/js/_support/knockout-3.0.0.js",
+		"/Users/samuelstiles/Desktop/Italic-app/assets/styles/.public/pre-less.less",
+		"/Users/samuelstiles/Desktop/Italic-app/assets/styles/.public/styles.css",
+		"/Users/samuelstiles/Desktop/Italic-app/assets/styles/framework/side-panel.less",
+		"/Users/samuelstiles/Desktop/Italic-app/modules/ui-sidePanel.js",
+		"/Users/samuelstiles/Desktop/Italic-app/directives/tagsContainer.js",
+		"/Users/samuelstiles/Desktop/Italic-app/controllers/moodboardController.js",
+		"/Users/samuelstiles/Desktop/Italic-app/directives/moodboard.js",
+		"/Users/samuelstiles/Desktop/Giant-Bomb-API-Wrapper-Example/assets/js/controllers.js",
+		"/Users/samuelstiles/Desktop/Giant-Bomb-API-Wrapper-Example/assets/templates/findagame.html",
+		"/Users/samuelstiles/Desktop/Giant-Bomb-API-Wrapper-Example/assets/styles/styles.less",
+		"/Users/samuelstiles/Desktop/Giant-Bomb-API-Wrapper-Example/assets/templates/login.html",
+		"/Users/samuelstiles/Desktop/Giant-Bomb-API-Wrapper-Example/assets/styles/main.css",
+		"/Users/samuelstiles/Desktop/Giant-Bomb-API-Wrapper-Example/assets/index.html",
+		"/Users/samuelstiles/Desktop/Giant-Bomb-API-Wrapper-Example/assets/templates/randomgame.html",
+		"/Users/samuelstiles/Desktop/GBAPI/package.json",
+		"/Users/samuelstiles/Desktop/GBAPI/config/routes.js",
+		"/Users/samuelstiles/Desktop/GBAPI/api/controllers/FindController.js",
+		"/Users/samuelstiles/Desktop/GBAPI/api/services/DatabaseRetriever.js",
+		"/Users/samuelstiles/Desktop/GBAPI/.gitignore",
+		"/Users/samuelstiles/Desktop/GBAPI/README.md",
+		"/Users/samuelstiles/Desktop/GiantBombAPIThing/config/local.js",
+		"/Users/samuelstiles/Desktop/GiantBombAPIThing/api/services/DatabaseRetriever.js",
+		"/Users/samuelstiles/Desktop/GiantBombAPIThing/api/models/Game.js",
+		"/Users/samuelstiles/Desktop/GiantBombAPIThing/api/models/Concept.js",
+		"/Users/samuelstiles/Desktop/GiantBombAPIThing/api/models/Theme.js",
+		"/Users/samuelstiles/Desktop/GiantBombAPIThing/api/models/Platform.js",
+		"/Users/samuelstiles/Desktop/GiantBombAPIThing/api/models/Genre.js",
+		"/Users/samuelstiles/Desktop/GiantBombAPIThing/api/models/Character.js",
+		"/Users/samuelstiles/Desktop/GiantBombAPIThing/api/models/Developer.js",
+		"/Users/samuelstiles/Desktop/GiantBombAPIThing/config/models.js",
+		"/Users/samuelstiles/Desktop/GiantBombAPIThing/config/blueprints.js",
+		"/Users/samuelstiles/Desktop/GiantBombAPIThing/config/bootstrap.js",
+		"/Users/samuelstiles/Desktop/GiantBombAPIThing/config/policies.js",
+		"/Users/samuelstiles/Desktop/GiantBombAngularThing/config/local.js",
+		"/Users/samuelstiles/Library/Application Support/Sublime Text 2/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/Users/samuelstiles/Desktop/GiantBombAPIThing/assets/js/routes.js",
+		"/Users/samuelstiles/Desktop/GiantBombAPIThing/assets/templates/game.html",
+		"/Users/samuelstiles/Desktop/GiantBombAPIThing/assets/index.html",
+		"/Users/samuelstiles/Desktop/GiantBombAPIThing/assets/templates/findagame.html",
+		"/Users/samuelstiles/Desktop/GiantBombAPIThing/assets/styles/styles.less",
+		"/Users/samuelstiles/Desktop/GiantBombAPIThing/api/controllers/WTFController.js",
+		"/Users/samuelstiles/Desktop/GiantBombAPIThing/api/services.js",
+		"/Users/samuelstiles/Desktop/GiantBombAPIThing/assets/js/app.js",
+		"/Users/samuelstiles/Desktop/GiantBombAPIThing/assets/js/controllers.js",
+		"/Users/samuelstiles/Desktop/GiantBombAPIThing/.gitignore",
+		"/Users/samuelstiles/Desktop/GiantBombAPIThing/assets/styles/main.css",
+		"/Users/samuelstiles/Desktop/GiantBombAPIThing/config/connections.js",
+		"/Users/samuelstiles/Desktop/GiantBombAPIThing/api/models/User.js",
+		"/Users/samuelstiles/Desktop/GiantBombAPIThing/assets/js/directives.js",
+		"/Users/samuelstiles/Desktop/GiantBombAPIThing/config/routes.js",
+		"/Users/samuelstiles/Desktop/GiantBombAPIThing/assets/templates/directives/thing.html",
+		"/Users/samuelstiles/Desktop/GiantBombAPIThing/assets/templates/tasks.html",
+		"/Users/samuelstiles/Desktop/GiantBombAPIThing/api/controllers/UserController.js",
+		"/Users/samuelstiles/Desktop/GiantBombAPIThing/package.json",
+		"/Users/samuelstiles/Desktop/Italic-app/assets/templates/new_project_modal.html",
+		"/Users/samuelstiles/Desktop/Italic-app/assets/styles/framework/people-list.less",
+		"/Users/samuelstiles/Desktop/Italic-app/controllers/projectController.js",
+		"/Users/samuelstiles/Desktop/Italic-app/utils/util.js",
+		"/Users/samuelstiles/Desktop/Italic-api/api/models/Invitation.js",
+		"/Users/samuelstiles/Desktop/Italic-api/api/controllers/InvitationController.js",
+		"/Users/samuelstiles/Desktop/Italic-app/routes.js",
+		"/Users/samuelstiles/Desktop/Italic-app/index.html",
+		"/Users/samuelstiles/Desktop/Italic-api/config/routes.js",
+		"/Users/samuelstiles/Desktop/Italic-app/services/projectService.js",
+		"/Users/samuelstiles/Desktop/Italic-app/directives/peopleInput.js",
+		"/Users/samuelstiles/Desktop/Italic-app/assets/styles/framework/people-panel.less",
+		"/Users/samuelstiles/Desktop/Italic-app/assets/templates/directives/peopleList.html",
+		"/Users/samuelstiles/Desktop/Italic-app/controllers/dashboardController.js",
+		"/Users/samuelstiles/Desktop/Italic-app/assets/js/fileUpload/jquery.fileupload-angular.js",
+		"/Users/samuelstiles/Desktop/Italic-app/directives/discussionBox.js",
+		"/Users/samuelstiles/Desktop/Italic-app/directives/popupBox.js",
+		"/Users/samuelstiles/Desktop/Italic-app/assets/templates/moodboardConfirmDelete.html",
+		"/Users/samuelstiles/Desktop/Italic-app/assets/templates/directives/sidepanel.html",
+		"/Users/samuelstiles/Desktop/Italic-app/assets/styles/moodboard pages/moodboard_image.less",
+		"/Users/samuelstiles/Desktop/Italic-api/api/services/InvitationService.js",
+		"/Users/samuelstiles/Desktop/Italic-api/views/email/new-comment.html",
+		"/Users/samuelstiles/Desktop/Italic-api/api/models/Comment.js",
+		"/Users/samuelstiles/Desktop/Italic-app/assets/templates/moodboardImage.html",
+		"/Users/samuelstiles/Desktop/Italic-app/controllers/headerController.js",
+		"/Users/samuelstiles/Desktop/Italic-api/api/models/Account.js",
+		"/Users/samuelstiles/Desktop/Italic-api/api/models/Client.js",
+		"/Users/samuelstiles/Desktop/Italic-api/api/models/Discussion.js",
+		"/Users/samuelstiles/Desktop/Italic-api/api/models/File.js",
+		"/Users/samuelstiles/Desktop/Italic-api/api/models/Forgotpassword.js",
+		"/Users/samuelstiles/Desktop/Italic-api/api/models/Group.js",
+		"/Users/samuelstiles/Desktop/Italic-api/api/models/Moodboard.js",
+		"/Users/samuelstiles/Desktop/Italic-api/api/models/MoodboardImage.js",
+		"/Users/samuelstiles/Desktop/Italic-api/api/models/Project.js",
+		"/Users/samuelstiles/Desktop/Italic-api/api/models/Task.js",
+		"/Users/samuelstiles/Desktop/Italic-api/api/models/Token.js",
+		"/Users/samuelstiles/Desktop/Italic-api/api/models/User.js",
+		"/Users/samuelstiles/Desktop/Italic-api/config/models.js",
+		"/Users/samuelstiles/Desktop/Italic-app/assets/templates/dashboard.html"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Users/samuelstiles/Desktop/nbifapp.orangesprocket.com/html",
+			"/Users/samuelstiles/Desktop/nbifapp.orangesprocket.com",
+			"/Users/samuelstiles/Desktop/nbifapp.orangesprocket.com/html",
+			"/Users/samuelstiles/Desktop/Italic-app/assets/styles",
+			"/Users/samuelstiles/Desktop/Italic-app/controllers",
+			"/Users/samuelstiles/Desktop/Italic-app/directives",
+			"/Users/samuelstiles/Desktop/Italic-app/assets/templates",
+			"/Users/samuelstiles/Desktop/Italic-app/assets",
+			"/Users/samuelstiles/Desktop/Italic-app",
+			"/Users/samuelstiles/Desktop/Italic-app/directives",
+			"/Users/samuelstiles/Desktop/Italic-app",
+			"/Users/samuelstiles/Desktop/Giant-Bomb-API-Wrapper-Example/assets/styles",
+			"/Users/samuelstiles/Desktop/GBAPI/node_modules/sails-mysql",
+			"/Users/samuelstiles/Desktop/GiantBombAngularThing/config",
+			"/Users/samuelstiles/Desktop/GiantBombAPIThing/assets",
+			"/Users/samuelstiles/Desktop/Italic-app/assets/styles",
+			"/Users/samuelstiles/Desktop/Italic-app",
+			"/Users/samuelstiles/Desktop/Italic-app/assets/styles",
+			"/Users/samuelstiles/Desktop/Italic-api/views/email",
+			"/Users/samuelstiles/Desktop/Italic-app/controllers",
+			"/Users/samuelstiles/Desktop/Italic-app",
+			"/Users/samuelstiles/Desktop/Italic-app/directives",
+			"/Users/samuelstiles/Desktop/Italic-app/controllers",
+			"/Users/samuelstiles/Desktop/Italic-app/assets/styles",
+			"/Users/samuelstiles/Desktop/Italic-app/assets/templates",
+			"/Users/samuelstiles/Desktop/Italic-app/assets",
+			"/Users/samuelstiles/Desktop/Italic-app",
+			"/Users/samuelstiles/Desktop/Italic-api/api/controllers",
+			"/Users/samuelstiles/Desktop/Italic-app",
+			"/Users/samuelstiles/Desktop/Italic-api/api",
+			"/Users/samuelstiles/Desktop/Italic-api/api/policies",
+			"/Users/samuelstiles/Desktop/Italic-app",
+			"/Users/samuelstiles/Desktop/Italic-api/api/policies",
+			"/Users/samuelstiles/Desktop/Italic-app/assets/styles",
+			"/Users/samuelstiles/Desktop/Italic-app/assets/templates",
+			"/Users/samuelstiles/Desktop/Italic-api/api/controllers",
+			"/Users/samuelstiles/Desktop/Italic-app/controllers",
+			"/Users/samuelstiles/Desktop/Italic-app",
+			"/Users/samuelstiles/Desktop/Italic-app/assets/styles",
+			"/Users/samuelstiles/Desktop/Italic-app",
+			"/Users/samuelstiles/Desktop/Italic-app/assets",
+			"/Users/samuelstiles/Desktop/Italic-app",
+			"/Users/samuelstiles/Desktop/Italic-app/assets/styles",
+			"/Users/samuelstiles/Desktop/Italic-app/assets/styles/framework",
+			"/Users/samuelstiles/Desktop/Italic-app/assets/styles",
+			"/Users/samuelstiles/Desktop/Italic-app/assets/styles/discussion pages",
+			"/Users/samuelstiles/Desktop/Italic-app/assets/styles",
+			"/Users/samuelstiles/Desktop/Italic-app",
+			"/Users/samuelstiles/Desktop/Italic-app/controllers",
+			"/Users/samuelstiles/Desktop/Italic-app/assets",
+			"/Users/samuelstiles/Desktop/Italic-app",
+			"/Users/samuelstiles/Desktop/Italic-app/assets/styles",
+			"/Users/samuelstiles/Desktop/Italic-app/assets/templates",
+			"/Users/samuelstiles/Desktop/Italic-app",
+			"/Users/samuelstiles/Desktop/Italic-app/assets",
+			"/Users/samuelstiles/Desktop/Italic-app/assets/styles",
+			"/Users/samuelstiles/Desktop/Italic-app",
+			"/Users/samuelstiles/Desktop/Italic-app/assets/styles",
+			"/Users/samuelstiles/Desktop/Italic-app/assets",
+			"/Users/samuelstiles/Desktop/Italic-app",
+			"/Users/samuelstiles/Desktop/Italic-app/assets",
+			"/Users/samuelstiles/Desktop/Italic-app/assets/styles",
+			"/Users/samuelstiles/Desktop/Italic-app/assets",
+			"/Users/samuelstiles/Desktop/Italic-app",
+			"/Users/samuelstiles/Desktop/Soup.ly/views",
+			"/Users/samuelstiles/Desktop/Soup.ly/assets/templates",
+			"/Users/nickf/Projects/Soup.ly",
+			"/Users/nickf/Projects/Souply2",
+			"/Users/nickf/Souply"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			";\n",
+			"prepared",
+			"SELECT * FROM",
+			"SELECT",
+			"style=",
+			"comment",
+			"prev()",
+			"main-nav",
+			"comment-reply",
+			"tagsShowing",
+			"removeTag",
+			"tagsShowing",
+			"<a",
+			"button",
+			"  <a",
+			"button",
+			" <butto",
+			"resetSearches()",
+			"();",
+			">\n\n    </div>",
+			"\"></div>",
+			"search-btn",
+			"black",
+			"body {",
+			"button",
+			"0",
+			"authentication",
+			"\n        console.log(foundGames);",
+			"Server Error (500)",
+			"1337",
+			"console.log",
+			"Concept",
+			"concept",
+			"Concept",
+			"concept",
+			"Concept",
+			"concept",
+			"                            console.log('An error occured in my fancy concept filtering!');",
+			"results.game_platforms",
+			"platformz",
+			"platforms",
+			"Platforms",
+			"platforms",
+			"gbresponse.results.image",
+			"gbresponse.results.image ",
+			") {\n",
+			"\n",
+			"gbresponse.results.site_detail_url",
+			"gbresponse.results.original_release_date",
+			"gbresponse.results.original_game_rating",
+			"gbresponse.results.rating",
+			"gbresponse.results.image",
+			"gbresponse.results.name",
+			"gbresponse.results.description",
+			"gbresponse.results.descrtiption",
+			"===",
+			"characters",
+			"XXXX",
+			"characters",
+			"concepts",
+			"ext...');",
+			"genre",
+			"genres",
+			"Genres",
+			"genres",
+			"genre",
+			"genres",
+			"Genres",
+			"genres",
+			"genre",
+			"genres",
+			"Genres",
+			"genres",
+			"concept",
+			"concepts",
+			"Concepts",
+			"concepts",
+			"concept",
+			"arrayedGame",
+			"gbresponse",
+			"[0]",
+			"              console.log('Done one iteration, on to the next...');\n",
+			"              console.log('Pushing a concept into the games concept array...');\n",
+			"            console.log('Looping through each concept...');\n",
+			"arrayedGame",
+			"gbresponse",
+			"productivityTime",
+			": ",
+			"process.env.",
+			"1ms",
+			"100ms",
+			"300ms",
+			"	",
+			"starred_pro",
+			"starred_projcet",
+			".done",
+			"Email",
+			"email",
+			".post",
+			"	",
+			" 	",
+			"	",
+			" 	",
+			"div",
+			"isValidEmailAddress",
+			" re",
+			"re",
+			"list-wrapper",
+			"people-list",
+			"match.model",
+			"	",
+			" 	",
+			"Reply to Comment",
+			"	",
+			"keyup",
+			"keuup",
+			"addTagToImage",
+			"tag",
+			"0 30px 30px 0",
+			"focus",
+			"left-arrow",
+			".add",
+			"icon-menubars",
+			"notification.avatar",
+			"?",
+			".when('/'",
+			"webkit-anti",
+			"fav_proj"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"$http )",
+			"$http)",
+			"( $http",
+			"($http",
+			", $http",
+			"$http.",
+			"href=\"/",
+			"\"/#/",
+			"authService.put",
+			"authService.post(\"http://localhost:1337/",
+			"authService.post",
+			"('/assets/images/",
+			"(/assets/images/",
+			"'/assets/templates/"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "views/layout.ejs",
+					"settings":
+					{
+						"buffer_size": 434,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								434,
+								434
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"incomplete_sync": null,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"remote_loading": false,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "hard",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"synced": false,
+							"syntax": "Packages/EJS/EJS_alternative.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "views/homepage.ejs",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"incomplete_sync": null,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"remote_loading": false,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "hard",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"synced": false,
+							"syntax": "Packages/EJS/EJS_alternative.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "assets/styles/styles.css",
+					"settings":
+					{
+						"buffer_size": 92,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								37,
+								37
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"incomplete_sync": null,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"remote_loading": false,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "hard",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"synced": false,
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "assets/js/main.js",
+					"settings":
+					{
+						"buffer_size": 1543,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								715,
+								715
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"incomplete_sync": null,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"remote_loading": false,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "hard",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 550.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"~/Projects/Soup.ly/Soup.ly.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 291.0,
+	"status_bar_visible": true
+}
